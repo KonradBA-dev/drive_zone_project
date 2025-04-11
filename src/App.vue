@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <router-view></router-view>  <!-- Miejsce, w którym wyświetlają się różne widoki na podstawie trasy --> asdasasd
+    <router-view></router-view>  <!-- Miejsce, w którym wyświetlają się różne widoki na podstawie trasy --> 
   </v-app>
 </template>
 
