@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2020,
+    "price": 20000,
+    "image": "/images/Toyota Corolla 2020.webp",
+    "description": "Toyota Corolla to jeden z najbardziej niezawodnych samochodów na rynku. Idealny dla osób szukających auta ekonomicznego i trwałego.",
+    "location": "Warszawa, Polska",
+    "technical_details": {
+      "mileage": "15000 km",
+      "transmission": "Manualna",
+      "drive": "FWD",
+      "engine": "1.8L 4-cylindryczny",
+      "fuel_type": "Benzyna",
+      "color": "Biały"
+    }
+  },
+  {
+    "id": 2,
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2019,
+    "price": 18000,
+    "image": "/images/Honda Civic 2019.webp",
+    "description": "Honda Civic to kompaktowy samochód, który łączy sportowy charakter z niezawodnością. Wysoka jakość wykonania i nowoczesne technologie.",
+    "location": "Kraków, Polska",
+    "technical_details": {
+      "mileage": "22000 km",
+      "transmission": "Automatyczna",
+      "drive": "FWD",
+      "engine": "2.0L 4-cylindryczny",
+      "fuel_type": "Benzyna",
+      "color": "Niebieski"
+    }
+  },
+  {
+    "id": 3,
+    "make": "Ford",
+    "model": "Focus",
+    "year": 2021,
+    "price": 22000,
+    "image": "/images/Ford Focus 2021.webp",
+    "description": "Ford Focus to nowoczesny samochód o wysokiej wydajności i eleganckim wyglądzie. Świetny wybór do codziennego użytku.",
+    "location": "Wrocław, Polska",
+    "technical_details": {
+      "mileage": "5000 km",
+      "transmission": "Manualna",
+      "drive": "FWD",
+      "engine": "1.5L 4-cylindryczny",
+      "fuel_type": "Benzyna",
+      "color": "Biały"
+    }
+  },
+  {
+    "id": 4,
+    "make": "BMW",
+    "model": "M3",
+    "year": 2022,
+    "price": 60000,
+    "image": "/images/BMW M3 2022.webp",
+    "description": "BMW M3 to sportowy samochód o wyjątkowej mocy i elegancji. Idealny wybór dla fanów motoryzacji i luksusu.",
+    "location": "Poznań, Polska",
+    "technical_details": {
+      "mileage": "3000 km",
+      "transmission": "Automatyczna",
+      "drive": "AWD",
+      "engine": "3.0L 6-cylindryczny",
+      "fuel_type": "Benzyna",
+      "color": "Czarny"
+    }
+  },
+  {
+    "id": 5,
+    "make": "Audi",
+    "model": "A4",
+    "year": 2021,
+    "price": 30000,
+    "image": "/images/Audi A4 2021.webp",
+    "description": "Audi A4 to elegancka limuzyna łącząca komfort z zaawansowaną technologią. Doskonały wybór na długie podróże.",
+    "location": "Gdańsk, Polska",
+    "technical_details": {
+      "mileage": "12000 km",
+      "transmission": "Automatyczna",
+      "drive": "AWD",
+      "engine": "2.0L 4-cylindryczny",
+      "fuel_type": "Diesel",
+      "color": "Czarny"
+    }
+  },
+  {
+    "id": 6,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "year": 2020,
+    "price": 45000,
+    "image": "/images/Mercedes-Benz E-Class 2022.webp",
+    "description": "Mercedes E-Class to luksusowy samochód, który oferuje wyjątkowy komfort, nowoczesne technologie i doskonałe osiągi.",
+    "location": "Łódź, Polska",
+    "technical_details": {
+      "mileage": "8000 km",
+      "transmission": "Automatyczna",
+      "drive": "RWD",
+      "engine": "2.5L 6-cylindryczny",
+      "fuel_type": "Benzyna",
+      "color": "Silver"
+    }
+  },
+  {
+    "id": 7,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "year": 2021,
+    "price": 23000,
+    "image": "/images/Volkswagen Golf 2021.webp",
+    "description": "Volkswagen Golf to samochód kompaktowy o znakomitej dynamice i wydajności, doskonały do jazdy miejskiej.",
+    "location": "Katowice, Polska",
+    "technical_details": {
+      "mileage": "15000 km",
+      "transmission": "Manualna",
+      "drive": "FWD",
+      "engine": "1.6L 4-cylindryczny",
+      "fuel_type": "Benzyna",
+      "color": "Niebieski"
+    }
+  }
+]
